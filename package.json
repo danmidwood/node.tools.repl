@@ -1,0 +1,23 @@
+{
+  "name": "tools.repl",
+  "version": "0.0.0",
+  "description": "Helpful utilities for working in the repl",
+  "main": "tools.repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:danmidwood/node.tools.repl.git"
+  },
+  "keywords": [
+    "node.js",
+    "repl"
+  ],
+  "author": "Dan Midwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danmidwood/node.tools.repl/issues"
+  },
+  "homepage": "https://github.com/danmidwood/node.tools.repl"
+}
